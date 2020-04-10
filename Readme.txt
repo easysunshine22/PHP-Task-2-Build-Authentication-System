@@ -1,6 +1,6 @@
 How to run the User Registration & Login and User Management System With admin dashboard
 1. Download the zip file
-2. Extract the file and copy school-aunthentication-system folder
+2. Extract the file and copy PHP-Task-2-Build-Authentication-System-master folder
 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 5. Create a database with name my-school-authentication-system
